@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 11
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "HelloWorld", "src\HelloWorld\HelloWorld.fsproj", "{CB162B3D-058A-481A-977A-0349E2F5196B}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "HelloWorldWinForm", "src\HelloWorldWinForm\HelloWorldWinForm.fsproj", "{1776626C-B229-40A9-BF32-6C27399488B8}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "HelloWorldWPF", "src\HelloWorldWPF\HelloWorldWPF.fsproj", "{471B32A5-46F4-42BA-8634-64101904CEAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1776626C-B229-40A9-BF32-6C27399488B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1776626C-B229-40A9-BF32-6C27399488B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1776626C-B229-40A9-BF32-6C27399488B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1776626C-B229-40A9-BF32-6C27399488B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{471B32A5-46F4-42BA-8634-64101904CEAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{471B32A5-46F4-42BA-8634-64101904CEAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{471B32A5-46F4-42BA-8634-64101904CEAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{471B32A5-46F4-42BA-8634-64101904CEAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB162B3D-058A-481A-977A-0349E2F5196B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB162B3D-058A-481A-977A-0349E2F5196B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB162B3D-058A-481A-977A-0349E2F5196B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB162B3D-058A-481A-977A-0349E2F5196B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
